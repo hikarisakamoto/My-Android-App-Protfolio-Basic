@@ -1,0 +1,39 @@
+<resources>
+    <string-array name="appNames">
+        <item>@string/app1</item>
+        <item>@string/app2</item>
+        <item>@string/app3</item>
+    </string-array>
+    <string name="app_name">My Portfolio Basic</string>
+    <string name="demoimage">Demo Image</string>
+    <string name="app1">Calculator</string>
+    <string name="sqr">SQR</string>
+    <string name="onebyx">1/x</string>
+    <string name="percent">%</string>
+    <string name="percentinfo">Infrom a value</string>
+    <string name="cantperform">Can\'t divide by 0</string>
+    <string name="nothingtostore">Nothing to store</string>
+    <string name="memoryempty">Memory is empty</string>
+    <string name="clr">Clear</string>
+    <string name="app2">Top Lists</string>
+    <string name="numberList">%d.</string>
+    <string name="byString">by %s</string>
+    <string name="free_apps">Free Apps</string>
+    <string name="paid_apps">Paid Apps</string>
+    <string name="songs">Songs</string>
+    <string name="topfreeapps">Top %d Free Apps</string>
+    <string name="toppaidapps">Top %d Paid Apps</string>
+    <string name="topsongs">Top %d Songs</string>
+    <string name="top10">Top 10</string>
+    <string name="top25">Top 25</string>
+    <string name="topFreeApps" translatable="false">http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topfreeapplications/limit=%d/xml</string>
+    <string name="topPaidApps" translatable="false">http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/toppaidapplications/limit=%d/xml</string>
+    <string name="topSongs" translatable="false">http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=%d/xml</string>
+    <string name="refresh">Refresh</string>
+    <string name="app3">Curriculum Video</string>
+    <string name="errorYouTube">There was an error initializing the YouTube Player (1$%)</string>
+    <string name="initializedSuccess">Initialized YouTube Player successfully</string>
+    <string name="videoIsPlaying">Video is Playing..</string>
+    <string name="videoIsPaused">Video is paused...</string>
+    <string name="startVideo">Start Video</string>
+</resources>

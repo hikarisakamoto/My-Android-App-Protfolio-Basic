@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Portfolio</string>
+    <string name="demoimage">Imagem Demonstrativa</string>
+    <string name="app1">Calculadora</string>
+    <string name="sqr">Raiz</string>
+    <string name="percent">%</string>
+    <string name="onebyx">1/x</string>
+    <string name="percentinfo">Informe um valor</string>
+    <string name="cantperform">Não pode ser dividido por 0</string>
+    <string name="nothingtostore">Nada para armazenar</string>
+    <string name="memoryempty">A memória está vazia</string>
+    <string name="clr">Limpa</string>
+    <string name="app2">Lista dos Tops</string>
+    <string name="numberList">%d.</string>
+    <string name="byString">por %s</string>
+    <string name="free_apps">Apps Grátis</string>
+    <string name="paid_apps">Apps Pagos</string>
+    <string name="songs">Música</string>
+    <string name="topfreeapps">Top %d Apps Grátis</string>
+    <string name="toppaidapps">Top %d Apps Pagos</string>
+    <string name="topsongs">Top %d Músicas</string>
+    <string name="top10">Top 10</string>
+    <string name="top25">Top 25</string>
+    <string name="refresh">Atualizar</string>
+    <string name="app3">Vídeo Curriculom</string>
+    <string name="errorYouTube">Houve um erro ao inicializar o YouTube Player (1$%)</string>
+    <string name="initializedSuccess">YouTube Player foi inicializado com sucesso</string>
+    <string name="videoIsPlaying">O video está rodando...</string>
+    <string name="videoIsPaused">O video está parado...</string>
+    <string name="startVideo">Iniciar Vídeo</string>
+</resources>
